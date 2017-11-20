@@ -1,4 +1,4 @@
-Version 1.7.0
+Version 1.6.1
 ________________________________________________________________________________
 * Fix a bug in creation of GO graph where invalid edges were included
 
