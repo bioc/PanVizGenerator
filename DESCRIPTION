@@ -1,7 +1,7 @@
 Package: PanVizGenerator
 Type: Package
 Title: Generate PanViz visualisations from your pangenome
-Version: 1.20.0
+Version: 1.21.0
 Date: 2017-11-20
 Author: Thomas Lin Pedersen
 Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
