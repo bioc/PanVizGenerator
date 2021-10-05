@@ -1,7 +1,7 @@
 Package: PanVizGenerator
 Type: Package
 Title: Generate PanViz visualisations from your pangenome
-Version: 1.21.0
+Version: 1.21.1
 Date: 2017-11-20
 Author: Thomas Lin Pedersen
 Maintainer: Thomas Lin Pedersen <thomasp85@gmail.com>
@@ -40,3 +40,4 @@ Collate:
     'shinyStuff.R'
     'zzz.R'
 RoxygenNote: 6.0.1
+PackageStatus: Deprecated
